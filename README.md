@@ -49,23 +49,6 @@ Contents:
 - CNN for Model 1: CNN using Model 1 inputs.
 - CNN for Model 2: CNN using Model 2 inputs.
 
-How to Use the Repository
-Clone the Repository:
-
-bash
-Copy code
-git clone [your-repo-url]
-cd [your-repo-folder]
-Run Jupyter Notebooks: Start Jupyter Notebook and open SSM_ML.ipynb or SSM_DL.ipynb:
-
-bash
-Copy code
-jupyter notebook
-Dependencies: Ensure the following packages are installed:
-
-bash
-Copy code
-pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 
 # Additional Information
 - For more details on the process description and soft sensor, refer to the SSM article.
