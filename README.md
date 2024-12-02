@@ -2,8 +2,8 @@
 
 This repository contains machine learning (ML) and deep learning (DL) models developed for predicting the Brix index using sensor data, including steam pressure, vacuum pressure, level, and time-series features. The repository consists of two Jupyter notebooks:
 
-SSS_ML.ipynb: Implements various ML models for different input configurations.
-SSM_DL.ipynb: Implements various DL architectures for more complex time-series data.
+- SSM_ML.ipynb: Implements various ML models for different input configurations.
+- SSM_DL.ipynb: Implements various DL architectures for more complex time-series data.
 Project Overview
 The goal is to accurately predict the Brix index using different combinations of sensor inputs across multiple models. The models are categorized into three configurations:
 
@@ -56,7 +56,7 @@ bash
 Copy code
 git clone [your-repo-url]
 cd [your-repo-folder]
-Run Jupyter Notebooks: Start Jupyter Notebook and open SSS_ML.ipynb or SSM_DL.ipynb:
+Run Jupyter Notebooks: Start Jupyter Notebook and open SSM_ML.ipynb or SSM_DL.ipynb:
 
 bash
 Copy code
