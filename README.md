@@ -7,10 +7,10 @@ SSM_DL.ipynb: Implements various DL architectures for more complex time-series d
 Project Overview
 The goal is to accurately predict the Brix index using different combinations of sensor inputs across multiple models. The models are categorized into three configurations:
 
-Model Type	ML Inputs	DL Inputs	Output
-Basic Model	Steam pressure, Level	Steam pressure, Level, Time-series	Brix index
-Model 1	Vacuum pressure, Steam pressure, Level	Vacuum pressure, Steam pressure, Level, Time-series	Brix index
-Model 2 (Chosen)	Vacuum pressure, Steam pressure	Vacuum pressure, Steam pressure, Time-series	Brix index
+Model                        Type	ML Inputs	DL Inputs	Output
+- Basic Model	Steam pressure,     Level	Steam pressure,     Level,  Time-series	Brix index
+´  Model 1	Vacuum pressure, Steam pressure, Level	Vacuum pressure, Steam pressure, Level, Time-series	Brix index
+- Model 2 (Chosen)	Vacuum pressure, Steam pressure	Vacuum pressure, Steam pressure, Time-series	Brix index
 Jupyter Notebooks
 1. SSM_ML.ipynb (Sensor Simulation - Machine Learning)
 This notebook explores traditional ML approaches, including Multiple Linear Regression (MLR), General Regression Neural Networks (GRNN), Support Vector Regression (SVR), and Decision Tree Regression (DTR).
