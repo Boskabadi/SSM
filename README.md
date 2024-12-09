@@ -18,8 +18,6 @@ This notebook explores traditional ML approaches, including Multiple Linear Regr
 Contents:
 - Importing Data: Load and preprocess the dataset.
 - Plotting Data: Visualize key trends in the sensor readings.
-- Pair Plot: Pairwise relationships between sensor inputs and the Brix index.
-- Correlation Matrix: Visualize correlation between variables.
 - MLR for Basic Model: Apply MLR using Steam pressure and Level.
 - MLR for Model 1: Apply MLR using Vacuum pressure, Steam pressure, and Level.
 - MLR for Model 2: Apply MLR using Vacuum pressure and Steam pressure.
@@ -35,9 +33,6 @@ This notebook implements advanced deep learning architectures, including LSTM, G
 
 Contents:
 -I mporting Data: Load and preprocess the dataset.
-- Plotting Data: Visualize key trends in the sensor readings.
-- Pair Plot: Pairwise relationships between sensor inputs and the Brix index.
-- Correlation Matrix: Show relationships among variables.
 - Autocorrelation Function (ACF): Analyze time-series dependencies.
 - LSTM for Basic Model: Apply LSTM using Steam pressure, Level, and Time-series.
 - LSTM for Model 1: LSTM using Vacuum pressure, Steam pressure, Level, and Time-series.
