@@ -46,6 +46,6 @@ Contents:
 
 
 # Additional Information
-- For more details on the process description and soft sensor, refer to the SSM article.
+- For more details on the process description and soft sensor, refer to the SSM article. DOI: 10.1021/acs.iecr.4c03342
 - For any questions or issues, please contact seso@kt.dtu.dk or morebo@kt.dtu.dk.
 Thank you for using the SSM repository.
